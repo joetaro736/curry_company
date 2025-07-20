@@ -57,7 +57,7 @@ st.title('Visão entregadores')
 
 st.sidebar.markdown('# Curry Company')
 
-st.sidebar.image('logo2.jpg')
+# st.sidebar.image('logo2.jpg')
 
 st.sidebar.markdown('## Fastest Delivery in Town')
 
