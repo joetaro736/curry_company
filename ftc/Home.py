@@ -2,8 +2,8 @@ import streamlit as st
 from PIL import Image
 
 st.set_page_config(page_title='Home', page_icon='Data-FTC🎲')
-# image_path = 'c:/Users/Luísa Aragão A Dias/Desktop/joe/sst/analise_de_dados/ftc/'
-image = Image.open('logo2.jpg')
+image_path = 'c:/Users/Luísa Aragão A Dias/Desktop/joe/sst/analise_de_dados/ftc/'
+image = Image.open(image_path + 'logo2.jpg')
 st.image(image, width=120)
 
 # sidebar
