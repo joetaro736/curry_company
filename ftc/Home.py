@@ -9,7 +9,7 @@ st.image(logo)
 
 st.sidebar.markdown('# Curry Company')
 
-st.sidebar.image('logo2.jpg')
+st.sidebar.image(logo)
 
 st.sidebar.markdown('## Fastest Delivery in Town')
 
